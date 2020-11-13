@@ -1,4 +1,4 @@
-# Homework Description
+# Homework Description: Excel
 This folder includes our first homework assignment due on November 14, 2020.
 
 Documents include:
